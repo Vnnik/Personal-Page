@@ -15,7 +15,7 @@ function toggleMode(){
     if (html.classList.contains("light")){
         img.setAttribute("src", "./assets/avatar-light.png")
     }
-    // se tiver sem light manter imagem origianl//
+    // se tiver sem light manter imagem origianlg//
     else{
         img.setAttribute("src", "./assets/avatar dark.png")
     }
